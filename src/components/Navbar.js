@@ -268,19 +268,19 @@ const MobileNavItem = ({ label, children, href }) => {
 
 const NAV_ITEMS = [
   {
-    label: 'Inspiration',
-    href: '#',
+    label: 'Home',
+    href: '/',
   },
     {
-    label: 'Home',
-    href: '#',
+    label: 'Inspiration',
+    href: '/inspiration',
   },
   {
     label: 'Find a Friend',
-    href: '#',
+    href: '/findafriend'
   },
   {
     label: 'About Us',
-    href: '#',
+    href: '/aboutus',
   },
 ];
