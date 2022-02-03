@@ -22,6 +22,7 @@ import {
   ChevronDownIcon,
   ChevronRightIcon,
 } from '@chakra-ui/icons';
+import Logo from "./Logo";
 
 export default function WithSubnavigation() {
   const { isOpen, onToggle } = useDisclosure();
@@ -54,21 +55,21 @@ export default function WithSubnavigation() {
           />
         </Flex>
         <Flex flex={{ base: 1 }} justify={{ base: 'left', md: 'start' }} minWidth={'175px'}>
-          <Image
+          {/* <Image
             boxSize='45px'
             objectFit='cover'
             src='/images/logo.png'
             alt=""
-          />
-          <Text
+          /> */}
+          {/* <Text
             textAlign={useBreakpointValue({ base: 'center', md: 'left'})}
             mt={'15px'}
             fontFamily={'heading'}
             fontWeight={'800'}
             color={useColorModeValue('#2F190D', 'white')}
           >Adopt a Friend
-          </Text>
-
+          </Text> */}
+          <Logo />
           <Flex display={{ base: 'none', md: 'flex' }} ml={10}>
             <DesktopNav />
           </Flex>
