@@ -22,7 +22,8 @@ import {
   ChevronDownIcon,
   ChevronRightIcon,
 } from '@chakra-ui/icons';
-import Logo from "./Logo";
+import Logo from './Logo';
+import ColorModeSwitcher from './ColorModeSwitcher';
 
 export default function WithSubnavigation() {
   const { isOpen, onToggle } = useDisclosure();
@@ -40,6 +41,7 @@ export default function WithSubnavigation() {
         borderColor={useColorModeValue('gray.200', 'gray.900')}
         align={'center'}
       >
+
         <Flex
           flex={{ base: 1, md: 'auto' }}
           ml={{ base: -2 }}
@@ -81,6 +83,7 @@ export default function WithSubnavigation() {
           direction={'row'}
           spacing={6}
         >
+          <ColorModeSwitcher justifySelf="flex-end" />
           <Button
             as={'a'}
             fontSize={'sm'}
@@ -112,7 +115,6 @@ export default function WithSubnavigation() {
     </Box>
   );
 }
-
 const DesktopNav = () => {
   const linkColor = useColorModeValue('gray.600', 'gray.200');
   const linkHoverColor = useColorModeValue('gray.800', 'white');
