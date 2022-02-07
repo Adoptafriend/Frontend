@@ -274,10 +274,10 @@ const NAV_ITEMS = [
     label: 'Home',
     href: '/',
   },
-    {
-    label: 'Inspiration',
-    href: '/inspiration',
-  },
+  //   {
+  //   label: 'Inspiration',
+  //   href: '/inspiration',
+  // },
   {
     label: 'Find a Friend',
     href: '/findafriend'

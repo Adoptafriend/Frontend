@@ -18,6 +18,7 @@ import Inspiration from './components/Inspiration';
 import AboutUs from './components/AboutUs';
 import FindAFriend from './components/FindAFriend';
 import Footer from './components/Footer';
+import PetDetails from './components/PetDetails';
 
 function App() {
   return (
@@ -28,6 +29,7 @@ function App() {
           <Route path='/' element={<Home />}/>
           <Route path='/inspiration' element={<Inspiration />}/>
           <Route path='/findafriend' element={<FindAFriend />}/>
+          <Route path='/findafriend/:id' element={<PetDetails />}/>
           <Route path='/aboutus' element={<AboutUs />}/>
         </Routes>
         <Footer />

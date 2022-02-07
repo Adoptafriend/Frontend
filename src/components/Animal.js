@@ -8,12 +8,14 @@ import {
   Icon,
   chakra,
   Tooltip,
+  Link,
 } from '@chakra-ui/react';
 
 
 function Animal({ pet }) {
   // console.log(pet.animal);
   return (
+    <Link href={`/findafriend/${pet.animal.id}`}>
     <Flex p={50} w="full" alignItems="center" justifyContent="center">
       <Box
         bg={useColorModeValue('white', 'gray.800')}
@@ -82,6 +84,7 @@ function Animal({ pet }) {
         </Box>
       </Box>
     </Flex>
+    </Link>
   );
 }
 
