@@ -1,0 +1,3372 @@
+{
+  "animals": [
+    {
+      "id": 54556145,
+      "organization_id": "TX2511",
+      "url": "https://www.petfinder.com/dog/auggie-54556145/tx/dallas/sdr-rescue-tx2511/?referrer_id=48cc91d9-65e0-4e61-890c-07ebc51372d4",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Chihuahua",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Golden",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Small",
+      "coat": "Medium",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": false,
+        "dogs": true,
+        "cats": null
+      },
+      "tags": [
+        "Friendly",
+        "Playful",
+        "Smart",
+        "Funny"
+      ],
+      "name": "Auggie",
+      "description": "I&#039;m Auggie! I&#039;m little, fun, have good house manners and am looking for someone fun with good manners too! I&#039;d...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556145/1/?bust=1644355637&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556145/1/?bust=1644355637&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556145/1/?bust=1644355637&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556145/1/?bust=1644355637"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556145/2/?bust=1644355638&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556145/2/?bust=1644355638&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556145/2/?bust=1644355638&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556145/2/?bust=1644355638"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556145/3/?bust=1644355639&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556145/3/?bust=1644355639&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556145/3/?bust=1644355639&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556145/3/?bust=1644355639"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556145/4/?bust=1644355645&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556145/4/?bust=1644355645&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556145/4/?bust=1644355645&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556145/4/?bust=1644355645"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556145/1/?bust=1644355637&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556145/1/?bust=1644355637&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556145/1/?bust=1644355637&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556145/1/?bust=1644355637"
+      },
+      "videos": [
+        {
+          "embed": "<iframe title=\"Video\" frameborder=\"0\" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen name=\"vidly-frame\" src=\"https://s.vid.ly/embeded.html?link=l6j8t9&autoplay=false\"><a target=\"_blank\" href=\"https://vid.ly/l6j8t9\"><img src=\"https://cf.cdn.vid.ly/l6j8t9/poster.jpg\" /></a></iframe>"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2022-02-08T21:28:31+0000",
+      "published_at": "2022-02-08T21:28:31+0000",
+      "distance": 17.441,
+      "contact": {
+        "email": "sdr_dallas@protonmail.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Dallas",
+          "state": "TX",
+          "postcode": "75230",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/54556145"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tx2511"
+        }
+      }
+    },
+    {
+      "id": 54556656,
+      "organization_id": "TX236",
+      "url": "https://www.petfinder.com/dog/1140187-54556656/tx/dallas/dallas-animal-services-and-adoption-center-tx236/?referrer_id=48cc91d9-65e0-4e61-890c-07ebc51372d4",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Boxer",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Large",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "1140187",
+      "description": null,
+      "organization_animal_id": "A1140187",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556656/1/?bust=1644356150&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556656/1/?bust=1644356150&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556656/1/?bust=1644356150&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556656/1/?bust=1644356150"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556656/1/?bust=1644356150&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556656/1/?bust=1644356150&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556656/1/?bust=1644356150&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556656/1/?bust=1644356150"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-02-08T21:25:44+0000",
+      "published_at": "2022-02-08T21:25:44+0000",
+      "distance": 13.6845,
+      "contact": {
+        "email": "dasadopt@dallascityhall.com",
+        "phone": "(214) 671-0249",
+        "address": {
+          "address1": "1818 N. Westmoreland",
+          "address2": null,
+          "city": "Dallas",
+          "state": "TX",
+          "postcode": "75212",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/54556656"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tx236"
+        }
+      }
+    },
+    {
+      "id": 54556655,
+      "organization_id": "TX236",
+      "url": "https://www.petfinder.com/dog/a1140186-54556655/tx/dallas/dallas-animal-services-and-adoption-center-tx236/?referrer_id=48cc91d9-65e0-4e61-890c-07ebc51372d4",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Labrador Retriever",
+        "secondary": "Mixed Breed",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "A1140186",
+      "description": null,
+      "organization_animal_id": "A1140186",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556655/1/?bust=1644356151&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556655/1/?bust=1644356151&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556655/1/?bust=1644356151&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556655/1/?bust=1644356151"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556655/1/?bust=1644356151&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556655/1/?bust=1644356151&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556655/1/?bust=1644356151&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556655/1/?bust=1644356151"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-02-08T21:25:44+0000",
+      "published_at": "2022-02-08T21:25:44+0000",
+      "distance": 13.6845,
+      "contact": {
+        "email": "dasadopt@dallascityhall.com",
+        "phone": "(214) 671-0249",
+        "address": {
+          "address1": "1818 N. Westmoreland",
+          "address2": null,
+          "city": "Dallas",
+          "state": "TX",
+          "postcode": "75212",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/54556655"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tx236"
+        }
+      }
+    },
+    {
+      "id": 54556651,
+      "organization_id": "TX236",
+      "url": "https://www.petfinder.com/dog/luna-54556651/tx/dallas/dallas-animal-services-and-adoption-center-tx236/?referrer_id=48cc91d9-65e0-4e61-890c-07ebc51372d4",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Husky",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Female",
+      "size": "Large",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "LUNA",
+      "description": null,
+      "organization_animal_id": "A1140184",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-02-08T21:25:43+0000",
+      "published_at": "2022-02-08T21:25:43+0000",
+      "distance": 13.6845,
+      "contact": {
+        "email": "dasadopt@dallascityhall.com",
+        "phone": "(214) 671-0249",
+        "address": {
+          "address1": "1818 N. Westmoreland",
+          "address2": null,
+          "city": "Dallas",
+          "state": "TX",
+          "postcode": "75212",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/54556651"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tx236"
+        }
+      }
+    },
+    {
+      "id": 54556653,
+      "organization_id": "TX236",
+      "url": "https://www.petfinder.com/dog/sparky-54556653/tx/dallas/dallas-animal-services-and-adoption-center-tx236/?referrer_id=48cc91d9-65e0-4e61-890c-07ebc51372d4",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Husky",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Male",
+      "size": "Large",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "SPARKY",
+      "description": null,
+      "organization_animal_id": "A1140182",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-02-08T21:25:43+0000",
+      "published_at": "2022-02-08T21:25:43+0000",
+      "distance": 13.6845,
+      "contact": {
+        "email": "dasadopt@dallascityhall.com",
+        "phone": "(214) 671-0249",
+        "address": {
+          "address1": "1818 N. Westmoreland",
+          "address2": null,
+          "city": "Dallas",
+          "state": "TX",
+          "postcode": "75212",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/54556653"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tx236"
+        }
+      }
+    },
+    {
+      "id": 54556654,
+      "organization_id": "TX236",
+      "url": "https://www.petfinder.com/dog/robin-54556654/tx/dallas/dallas-animal-services-and-adoption-center-tx236/?referrer_id=48cc91d9-65e0-4e61-890c-07ebc51372d4",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Husky",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Male",
+      "size": "Large",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "ROBIN",
+      "description": null,
+      "organization_animal_id": "A1140183",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-02-08T21:25:43+0000",
+      "published_at": "2022-02-08T21:25:43+0000",
+      "distance": 13.6845,
+      "contact": {
+        "email": "dasadopt@dallascityhall.com",
+        "phone": "(214) 671-0249",
+        "address": {
+          "address1": "1818 N. Westmoreland",
+          "address2": null,
+          "city": "Dallas",
+          "state": "TX",
+          "postcode": "75212",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/54556654"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tx236"
+        }
+      }
+    },
+    {
+      "id": 54556650,
+      "organization_id": "TX236",
+      "url": "https://www.petfinder.com/dog/a1140181-54556650/tx/dallas/dallas-animal-services-and-adoption-center-tx236/?referrer_id=48cc91d9-65e0-4e61-890c-07ebc51372d4",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Labrador Retriever",
+        "secondary": "Mixed Breed",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "A1140181",
+      "description": null,
+      "organization_animal_id": "A1140181",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556650/1/?bust=1644356148&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556650/1/?bust=1644356148&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556650/1/?bust=1644356148&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556650/1/?bust=1644356148"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556650/1/?bust=1644356148&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556650/1/?bust=1644356148&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556650/1/?bust=1644356148&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556650/1/?bust=1644356148"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-02-08T21:25:43+0000",
+      "published_at": "2022-02-08T21:25:43+0000",
+      "distance": 13.6845,
+      "contact": {
+        "email": "dasadopt@dallascityhall.com",
+        "phone": "(214) 671-0249",
+        "address": {
+          "address1": "1818 N. Westmoreland",
+          "address2": null,
+          "city": "Dallas",
+          "state": "TX",
+          "postcode": "75212",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/54556650"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tx236"
+        }
+      }
+    },
+    {
+      "id": 54556649,
+      "organization_id": "TX236",
+      "url": "https://www.petfinder.com/dog/a1140180-54556649/tx/dallas/dallas-animal-services-and-adoption-center-tx236/?referrer_id=48cc91d9-65e0-4e61-890c-07ebc51372d4",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Labrador Retriever",
+        "secondary": "Mixed Breed",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "A1140180",
+      "description": null,
+      "organization_animal_id": "A1140180",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556649/1/?bust=1644356150&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556649/1/?bust=1644356150&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556649/1/?bust=1644356150&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556649/1/?bust=1644356150"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556649/1/?bust=1644356150&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556649/1/?bust=1644356150&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556649/1/?bust=1644356150&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556649/1/?bust=1644356150"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-02-08T21:25:42+0000",
+      "published_at": "2022-02-08T21:25:42+0000",
+      "distance": 13.6845,
+      "contact": {
+        "email": "dasadopt@dallascityhall.com",
+        "phone": "(214) 671-0249",
+        "address": {
+          "address1": "1818 N. Westmoreland",
+          "address2": null,
+          "city": "Dallas",
+          "state": "TX",
+          "postcode": "75212",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/54556649"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tx236"
+        }
+      }
+    },
+    {
+      "id": 54556648,
+      "organization_id": "TX236",
+      "url": "https://www.petfinder.com/dog/a1139723-54556648/tx/dallas/dallas-animal-services-and-adoption-center-tx236/?referrer_id=48cc91d9-65e0-4e61-890c-07ebc51372d4",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "German Shepherd Dog",
+        "secondary": "Mixed Breed",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "A1139723",
+      "description": "You know that dog youve always been dreaming about? The one who greets you happily at the door each day...",
+      "organization_animal_id": "A1139723",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556648/1/?bust=1644356151&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556648/1/?bust=1644356151&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556648/1/?bust=1644356151&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556648/1/?bust=1644356151"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556648/1/?bust=1644356151&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556648/1/?bust=1644356151&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556648/1/?bust=1644356151&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556648/1/?bust=1644356151"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-02-08T21:25:42+0000",
+      "published_at": "2022-02-08T21:25:42+0000",
+      "distance": 13.6845,
+      "contact": {
+        "email": "dasadopt@dallascityhall.com",
+        "phone": "(214) 671-0249",
+        "address": {
+          "address1": "1818 N. Westmoreland",
+          "address2": null,
+          "city": "Dallas",
+          "state": "TX",
+          "postcode": "75212",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/54556648"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tx236"
+        }
+      }
+    },
+    {
+      "id": 54556647,
+      "organization_id": "TX236",
+      "url": "https://www.petfinder.com/dog/cricket-54556647/tx/dallas/dallas-animal-services-and-adoption-center-tx236/?referrer_id=48cc91d9-65e0-4e61-890c-07ebc51372d4",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "German Shepherd Dog",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Female",
+      "size": "Large",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "CRICKET",
+      "description": "Hi! This is Cricket. Theyre only 2 years old and 53lbs. Cricket would say that makes them a lap dog....",
+      "organization_animal_id": "A1128068",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556647/1/?bust=1644356151&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556647/1/?bust=1644356151&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556647/1/?bust=1644356151&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556647/1/?bust=1644356151"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556647/1/?bust=1644356151&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556647/1/?bust=1644356151&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556647/1/?bust=1644356151&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556647/1/?bust=1644356151"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-02-08T21:25:42+0000",
+      "published_at": "2022-02-08T21:25:42+0000",
+      "distance": 13.6845,
+      "contact": {
+        "email": "dasadopt@dallascityhall.com",
+        "phone": "(214) 671-0249",
+        "address": {
+          "address1": "1818 N. Westmoreland",
+          "address2": null,
+          "city": "Dallas",
+          "state": "TX",
+          "postcode": "75212",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/54556647"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tx236"
+        }
+      }
+    },
+    {
+      "id": 54556403,
+      "organization_id": "TX470",
+      "url": "https://www.petfinder.com/dog/heaven-54556403/tx/lewisville/city-of-lewisville-animal-shelter-tx470/?referrer_id=48cc91d9-65e0-4e61-890c-07ebc51372d4",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Pit Bull Terrier",
+        "secondary": "Mixed Breed",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Heaven",
+      "description": "ADOPT ME HERE (click on or copy and paste link into web browser): https://bit.ly/34HHabS\n.\n. .Hello! I am Heaven...",
+      "organization_animal_id": "49516521",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556403/1/?bust=1644355047&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556403/1/?bust=1644355047&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556403/1/?bust=1644355047&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556403/1/?bust=1644355047"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556403/1/?bust=1644355047&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556403/1/?bust=1644355047&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556403/1/?bust=1644355047&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556403/1/?bust=1644355047"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-02-08T21:06:32+0000",
+      "published_at": "2022-02-08T21:06:32+0000",
+      "distance": 13.9987,
+      "contact": {
+        "email": "lewisvillepets@gmail.com",
+        "phone": "(972) 219-3478",
+        "address": {
+          "address1": "995 E Valley Ridge Blvd",
+          "address2": null,
+          "city": "Lewisville",
+          "state": "TX",
+          "postcode": "75057",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/54556403"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tx470"
+        }
+      }
+    },
+    {
+      "id": 54556404,
+      "organization_id": "TX470",
+      "url": "https://www.petfinder.com/dog/burberry-54556404/tx/lewisville/city-of-lewisville-animal-shelter-tx470/?referrer_id=48cc91d9-65e0-4e61-890c-07ebc51372d4",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Australian Kelpie",
+        "secondary": "Mixed Breed",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Burberry",
+      "description": "ADOPT ME HERE (click on or copy and paste link into web browser): https://bit.ly/3gxiaHi\n.\n. .Hello! I am Burberry...",
+      "organization_animal_id": "49516464",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556404/1/?bust=1644355061&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556404/1/?bust=1644355061&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556404/1/?bust=1644355061&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556404/1/?bust=1644355061"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556404/1/?bust=1644355061&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556404/1/?bust=1644355061&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556404/1/?bust=1644355061&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556404/1/?bust=1644355061"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-02-08T21:06:32+0000",
+      "published_at": "2022-02-08T21:06:32+0000",
+      "distance": 13.9987,
+      "contact": {
+        "email": "lewisvillepets@gmail.com",
+        "phone": "(972) 219-3478",
+        "address": {
+          "address1": "995 E Valley Ridge Blvd",
+          "address2": null,
+          "city": "Lewisville",
+          "state": "TX",
+          "postcode": "75057",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/54556404"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tx470"
+        }
+      }
+    },
+    {
+      "id": 54556405,
+      "organization_id": "TX470",
+      "url": "https://www.petfinder.com/dog/frankie-54556405/tx/lewisville/city-of-lewisville-animal-shelter-tx470/?referrer_id=48cc91d9-65e0-4e61-890c-07ebc51372d4",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Terrier",
+        "secondary": "Mixed Breed",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Frankie",
+      "description": "ADOPT ME HERE (click on or copy and paste link into web browser): \n.\n. .Hello! My name is Frankie...",
+      "organization_animal_id": "49450202",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556405/1/?bust=1644355059&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556405/1/?bust=1644355059&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556405/1/?bust=1644355059&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556405/1/?bust=1644355059"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556405/2/?bust=1644355059&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556405/2/?bust=1644355059&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556405/2/?bust=1644355059&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556405/2/?bust=1644355059"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556405/3/?bust=1644355024&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556405/3/?bust=1644355024&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556405/3/?bust=1644355024&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556405/3/?bust=1644355024"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556405/1/?bust=1644355059&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556405/1/?bust=1644355059&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556405/1/?bust=1644355059&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556405/1/?bust=1644355059"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-02-08T21:06:32+0000",
+      "published_at": "2022-02-08T21:06:32+0000",
+      "distance": 13.9987,
+      "contact": {
+        "email": "lewisvillepets@gmail.com",
+        "phone": "(972) 219-3478",
+        "address": {
+          "address1": "995 E Valley Ridge Blvd",
+          "address2": null,
+          "city": "Lewisville",
+          "state": "TX",
+          "postcode": "75057",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/54556405"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tx470"
+        }
+      }
+    },
+    {
+      "id": 54556126,
+      "organization_id": "TX1353",
+      "url": "https://www.petfinder.com/dog/tex-54556126/tx/dallas/dash-dog-rescue-tx1353/?referrer_id=48cc91d9-65e0-4e61-890c-07ebc51372d4",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Australian Shepherd",
+        "secondary": "Collie",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [],
+      "name": "Tex",
+      "description": "APPLICATION REQUIRED from www.dashdog.org\nAdoption Fee $350\n\n***We don&amp;#39;t know how to make this more clear: OUR APPLICATION IS NOT...",
+      "organization_animal_id": "17752458-D220010",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556126/1/?bust=1644354073&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556126/1/?bust=1644354073&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556126/1/?bust=1644354073&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556126/1/?bust=1644354073"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556126/2/?bust=1644354084&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556126/2/?bust=1644354084&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556126/2/?bust=1644354084&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556126/2/?bust=1644354084"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556126/3/?bust=1644354077&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556126/3/?bust=1644354077&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556126/3/?bust=1644354077&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556126/3/?bust=1644354077"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556126/1/?bust=1644354073&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556126/1/?bust=1644354073&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556126/1/?bust=1644354073&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556126/1/?bust=1644354073"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-02-08T20:46:04+0000",
+      "published_at": "2022-02-08T20:46:04+0000",
+      "distance": 19.232,
+      "contact": {
+        "email": "sara@dashdog.org",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Dallas",
+          "state": "TX",
+          "postcode": "75248",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/54556126"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tx1353"
+        }
+      }
+    },
+    {
+      "id": 54556093,
+      "organization_id": "TX1765",
+      "url": "https://www.petfinder.com/dog/bobbi-54556093/tx/dallas/white-rock-dog-rescue-tx1765/?referrer_id=48cc91d9-65e0-4e61-890c-07ebc51372d4",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Schnoodle",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Bicolor",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Male",
+      "size": "Small",
+      "coat": "Medium",
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Bobbi",
+      "description": "Meet BOBBI he is a 6 lbs, 6 month old schenauzer mix.\n\nHis family decided that they no longer wanted...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556093/1/?bust=1644353020&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556093/1/?bust=1644353020&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556093/1/?bust=1644353020&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556093/1/?bust=1644353020"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556093/2/?bust=1644353021&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556093/2/?bust=1644353021&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556093/2/?bust=1644353021&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556093/2/?bust=1644353021"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556093/3/?bust=1644353022&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556093/3/?bust=1644353022&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556093/3/?bust=1644353022&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556093/3/?bust=1644353022"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556093/1/?bust=1644353020&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556093/1/?bust=1644353020&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556093/1/?bust=1644353020&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54556093/1/?bust=1644353020"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-02-08T20:43:43+0000",
+      "published_at": "2022-02-08T20:43:43+0000",
+      "distance": 21.6081,
+      "contact": {
+        "email": "WRDrescue@gmail.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Dallas",
+          "state": "TX",
+          "postcode": "75238",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/54556093"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tx1765"
+        }
+      }
+    },
+    {
+      "id": 54555521,
+      "organization_id": "TX106",
+      "url": "https://www.petfinder.com/dog/odie-54555521/tx/carrollton/operation-kindness-tx106/?referrer_id=48cc91d9-65e0-4e61-890c-07ebc51372d4",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Mixed Breed",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Odie",
+      "description": "Hi my name is Odie! I came to Operation Kindness on 2/8/2022 as a Transfer in from one of our...",
+      "organization_animal_id": "46961212",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555521/1/?bust=1644351392&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555521/1/?bust=1644351392&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555521/1/?bust=1644351392&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555521/1/?bust=1644351392"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555521/2/?bust=1644351399&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555521/2/?bust=1644351399&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555521/2/?bust=1644351399&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555521/2/?bust=1644351399"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555521/1/?bust=1644351392&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555521/1/?bust=1644351392&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555521/1/?bust=1644351392&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555521/1/?bust=1644351392"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-02-08T20:06:23+0000",
+      "published_at": "2022-02-08T20:06:23+0000",
+      "distance": 15.6161,
+      "contact": {
+        "email": "ok@operationkindness.org",
+        "phone": "(972) 418-PAWS (7297)",
+        "address": {
+          "address1": "3201 Earhart Dr",
+          "address2": null,
+          "city": "Carrollton",
+          "state": "TX",
+          "postcode": "75006",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/54555521"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tx106"
+        }
+      }
+    },
+    {
+      "id": 54555436,
+      "organization_id": "TX54",
+      "url": "https://www.petfinder.com/dog/aldo-54555436/tx/weatherford/weatherford-parker-county-animal-shelter-tx54/?referrer_id=48cc91d9-65e0-4e61-890c-07ebc51372d4",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Shepherd",
+        "secondary": "Mixed Breed",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Aldo",
+      "description": "25",
+      "organization_animal_id": "95625",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555436/1/?bust=1644351105&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555436/1/?bust=1644351105&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555436/1/?bust=1644351105&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555436/1/?bust=1644351105"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555436/1/?bust=1644351105&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555436/1/?bust=1644351105&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555436/1/?bust=1644351105&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555436/1/?bust=1644351105"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-02-08T20:01:34+0000",
+      "published_at": "2022-02-08T20:01:34+0000",
+      "distance": 40.5643,
+      "contact": {
+        "email": "animals@weatherfordtx.gov",
+        "phone": "(817) 598-4111",
+        "address": {
+          "address1": "403 Hickory Lane",
+          "address2": null,
+          "city": "Weatherford",
+          "state": "TX",
+          "postcode": "76086",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/54555436"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tx54"
+        }
+      }
+    },
+    {
+      "id": 54555435,
+      "organization_id": "TX54",
+      "url": "https://www.petfinder.com/dog/alaska-54555435/tx/weatherford/weatherford-parker-county-animal-shelter-tx54/?referrer_id=48cc91d9-65e0-4e61-890c-07ebc51372d4",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Shepherd",
+        "secondary": "Mixed Breed",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Alaska",
+      "description": "25",
+      "organization_animal_id": "95620",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555435/1/?bust=1644351104&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555435/1/?bust=1644351104&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555435/1/?bust=1644351104&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555435/1/?bust=1644351104"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555435/1/?bust=1644351104&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555435/1/?bust=1644351104&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555435/1/?bust=1644351104&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555435/1/?bust=1644351104"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-02-08T20:01:31+0000",
+      "published_at": "2022-02-08T20:01:31+0000",
+      "distance": 40.5643,
+      "contact": {
+        "email": "animals@weatherfordtx.gov",
+        "phone": "(817) 598-4111",
+        "address": {
+          "address1": "403 Hickory Lane",
+          "address2": null,
+          "city": "Weatherford",
+          "state": "TX",
+          "postcode": "76086",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/54555435"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tx54"
+        }
+      }
+    },
+    {
+      "id": 54555262,
+      "organization_id": "TX236",
+      "url": "https://www.petfinder.com/dog/a1140174-54555262/tx/dallas/dallas-animal-services-and-adoption-center-tx236/?referrer_id=48cc91d9-65e0-4e61-890c-07ebc51372d4",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Cairn Terrier",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Male",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "A1140174",
+      "description": null,
+      "organization_animal_id": "A1140174",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555262/1/?bust=1644350747&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555262/1/?bust=1644350747&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555262/1/?bust=1644350747&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555262/1/?bust=1644350747"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555262/1/?bust=1644350747&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555262/1/?bust=1644350747&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555262/1/?bust=1644350747&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555262/1/?bust=1644350747"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-02-08T19:55:13+0000",
+      "published_at": "2022-02-08T19:55:13+0000",
+      "distance": 13.6845,
+      "contact": {
+        "email": "dasadopt@dallascityhall.com",
+        "phone": "(214) 671-0249",
+        "address": {
+          "address1": "1818 N. Westmoreland",
+          "address2": null,
+          "city": "Dallas",
+          "state": "TX",
+          "postcode": "75212",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/54555262"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tx236"
+        }
+      }
+    },
+    {
+      "id": 54555260,
+      "organization_id": "TX236",
+      "url": "https://www.petfinder.com/dog/a1140178-54555260/tx/dallas/dallas-animal-services-and-adoption-center-tx236/?referrer_id=48cc91d9-65e0-4e61-890c-07ebc51372d4",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Labrador Retriever",
+        "secondary": "Mixed Breed",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "A1140178",
+      "description": null,
+      "organization_animal_id": "A1140178",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555260/1/?bust=1644350730&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555260/1/?bust=1644350730&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555260/1/?bust=1644350730&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555260/1/?bust=1644350730"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555260/1/?bust=1644350730&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555260/1/?bust=1644350730&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555260/1/?bust=1644350730&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555260/1/?bust=1644350730"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-02-08T19:55:12+0000",
+      "published_at": "2022-02-08T19:55:12+0000",
+      "distance": 13.6845,
+      "contact": {
+        "email": "dasadopt@dallascityhall.com",
+        "phone": "(214) 671-0249",
+        "address": {
+          "address1": "1818 N. Westmoreland",
+          "address2": null,
+          "city": "Dallas",
+          "state": "TX",
+          "postcode": "75212",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/54555260"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tx236"
+        }
+      }
+    },
+    {
+      "id": 54555261,
+      "organization_id": "TX236",
+      "url": "https://www.petfinder.com/dog/11401723-54555261/tx/dallas/dallas-animal-services-and-adoption-center-tx236/?referrer_id=48cc91d9-65e0-4e61-890c-07ebc51372d4",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Collie",
+        "secondary": "Mixed Breed",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "11401723",
+      "description": null,
+      "organization_animal_id": "A1140173",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555261/1/?bust=1644350730&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555261/1/?bust=1644350730&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555261/1/?bust=1644350730&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555261/1/?bust=1644350730"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555261/1/?bust=1644350730&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555261/1/?bust=1644350730&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555261/1/?bust=1644350730&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555261/1/?bust=1644350730"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-02-08T19:55:12+0000",
+      "published_at": "2022-02-08T19:55:12+0000",
+      "distance": 13.6845,
+      "contact": {
+        "email": "dasadopt@dallascityhall.com",
+        "phone": "(214) 671-0249",
+        "address": {
+          "address1": "1818 N. Westmoreland",
+          "address2": null,
+          "city": "Dallas",
+          "state": "TX",
+          "postcode": "75212",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/54555261"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tx236"
+        }
+      }
+    },
+    {
+      "id": 54555259,
+      "organization_id": "TX236",
+      "url": "https://www.petfinder.com/dog/a1140177-54555259/tx/dallas/dallas-animal-services-and-adoption-center-tx236/?referrer_id=48cc91d9-65e0-4e61-890c-07ebc51372d4",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Labrador Retriever",
+        "secondary": "Mixed Breed",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "A1140177",
+      "description": null,
+      "organization_animal_id": "A1140177",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555259/1/?bust=1644350766&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555259/1/?bust=1644350766&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555259/1/?bust=1644350766&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555259/1/?bust=1644350766"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555259/1/?bust=1644350766&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555259/1/?bust=1644350766&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555259/1/?bust=1644350766&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555259/1/?bust=1644350766"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-02-08T19:55:12+0000",
+      "published_at": "2022-02-08T19:55:12+0000",
+      "distance": 13.6845,
+      "contact": {
+        "email": "dasadopt@dallascityhall.com",
+        "phone": "(214) 671-0249",
+        "address": {
+          "address1": "1818 N. Westmoreland",
+          "address2": null,
+          "city": "Dallas",
+          "state": "TX",
+          "postcode": "75212",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/54555259"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tx236"
+        }
+      }
+    },
+    {
+      "id": 54555257,
+      "organization_id": "TX236",
+      "url": "https://www.petfinder.com/dog/1140168-54555257/tx/dallas/dallas-animal-services-and-adoption-center-tx236/?referrer_id=48cc91d9-65e0-4e61-890c-07ebc51372d4",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Australian Kelpie",
+        "secondary": "Mixed Breed",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "1140168",
+      "description": null,
+      "organization_animal_id": "A1140168",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555257/1/?bust=1644350727&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555257/1/?bust=1644350727&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555257/1/?bust=1644350727&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555257/1/?bust=1644350727"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555257/1/?bust=1644350727&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555257/1/?bust=1644350727&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555257/1/?bust=1644350727&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555257/1/?bust=1644350727"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-02-08T19:55:11+0000",
+      "published_at": "2022-02-08T19:55:11+0000",
+      "distance": 13.6845,
+      "contact": {
+        "email": "dasadopt@dallascityhall.com",
+        "phone": "(214) 671-0249",
+        "address": {
+          "address1": "1818 N. Westmoreland",
+          "address2": null,
+          "city": "Dallas",
+          "state": "TX",
+          "postcode": "75212",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/54555257"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tx236"
+        }
+      }
+    },
+    {
+      "id": 54555256,
+      "organization_id": "TX236",
+      "url": "https://www.petfinder.com/dog/1140167-54555256/tx/dallas/dallas-animal-services-and-adoption-center-tx236/?referrer_id=48cc91d9-65e0-4e61-890c-07ebc51372d4",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Australian Cattle Dog / Blue Heeler",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "1140167",
+      "description": null,
+      "organization_animal_id": "A1140167",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555256/1/?bust=1644350731&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555256/1/?bust=1644350731&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555256/1/?bust=1644350731&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555256/1/?bust=1644350731"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555256/1/?bust=1644350731&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555256/1/?bust=1644350731&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555256/1/?bust=1644350731&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555256/1/?bust=1644350731"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-02-08T19:55:11+0000",
+      "published_at": "2022-02-08T19:55:11+0000",
+      "distance": 13.6845,
+      "contact": {
+        "email": "dasadopt@dallascityhall.com",
+        "phone": "(214) 671-0249",
+        "address": {
+          "address1": "1818 N. Westmoreland",
+          "address2": null,
+          "city": "Dallas",
+          "state": "TX",
+          "postcode": "75212",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/54555256"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tx236"
+        }
+      }
+    },
+    {
+      "id": 54555255,
+      "organization_id": "TX236",
+      "url": "https://www.petfinder.com/dog/1140170-54555255/tx/dallas/dallas-animal-services-and-adoption-center-tx236/?referrer_id=48cc91d9-65e0-4e61-890c-07ebc51372d4",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Collie",
+        "secondary": "Mixed Breed",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Female",
+      "size": "Large",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "1140170",
+      "description": null,
+      "organization_animal_id": "A1140170",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555255/1/?bust=1644350768&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555255/1/?bust=1644350768&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555255/1/?bust=1644350768&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555255/1/?bust=1644350768"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555255/1/?bust=1644350768&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555255/1/?bust=1644350768&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555255/1/?bust=1644350768&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555255/1/?bust=1644350768"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-02-08T19:55:11+0000",
+      "published_at": "2022-02-08T19:55:11+0000",
+      "distance": 13.6845,
+      "contact": {
+        "email": "dasadopt@dallascityhall.com",
+        "phone": "(214) 671-0249",
+        "address": {
+          "address1": "1818 N. Westmoreland",
+          "address2": null,
+          "city": "Dallas",
+          "state": "TX",
+          "postcode": "75212",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/54555255"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tx236"
+        }
+      }
+    },
+    {
+      "id": 54555258,
+      "organization_id": "TX236",
+      "url": "https://www.petfinder.com/dog/a1140175-54555258/tx/dallas/dallas-animal-services-and-adoption-center-tx236/?referrer_id=48cc91d9-65e0-4e61-890c-07ebc51372d4",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Labrador Retriever",
+        "secondary": "Mixed Breed",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Female",
+      "size": "Large",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "A1140175",
+      "description": null,
+      "organization_animal_id": "A1140175",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555258/1/?bust=1644350762&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555258/1/?bust=1644350762&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555258/1/?bust=1644350762&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555258/1/?bust=1644350762"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555258/1/?bust=1644350762&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555258/1/?bust=1644350762&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555258/1/?bust=1644350762&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555258/1/?bust=1644350762"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-02-08T19:55:11+0000",
+      "published_at": "2022-02-08T19:55:11+0000",
+      "distance": 13.6845,
+      "contact": {
+        "email": "dasadopt@dallascityhall.com",
+        "phone": "(214) 671-0249",
+        "address": {
+          "address1": "1818 N. Westmoreland",
+          "address2": null,
+          "city": "Dallas",
+          "state": "TX",
+          "postcode": "75212",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/54555258"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tx236"
+        }
+      }
+    },
+    {
+      "id": 54555254,
+      "organization_id": "TX236",
+      "url": "https://www.petfinder.com/dog/a1140176-54555254/tx/dallas/dallas-animal-services-and-adoption-center-tx236/?referrer_id=48cc91d9-65e0-4e61-890c-07ebc51372d4",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Labrador Retriever",
+        "secondary": "Mixed Breed",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "A1140176",
+      "description": null,
+      "organization_animal_id": "A1140176",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555254/1/?bust=1644350764&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555254/1/?bust=1644350764&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555254/1/?bust=1644350764&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555254/1/?bust=1644350764"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555254/1/?bust=1644350764&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555254/1/?bust=1644350764&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555254/1/?bust=1644350764&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555254/1/?bust=1644350764"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-02-08T19:55:10+0000",
+      "published_at": "2022-02-08T19:55:10+0000",
+      "distance": 13.6845,
+      "contact": {
+        "email": "dasadopt@dallascityhall.com",
+        "phone": "(214) 671-0249",
+        "address": {
+          "address1": "1818 N. Westmoreland",
+          "address2": null,
+          "city": "Dallas",
+          "state": "TX",
+          "postcode": "75212",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/54555254"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tx236"
+        }
+      }
+    },
+    {
+      "id": 54555253,
+      "organization_id": "TX236",
+      "url": "https://www.petfinder.com/dog/1140172-54555253/tx/dallas/dallas-animal-services-and-adoption-center-tx236/?referrer_id=48cc91d9-65e0-4e61-890c-07ebc51372d4",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Collie",
+        "secondary": "Mixed Breed",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "1140172",
+      "description": null,
+      "organization_animal_id": "A1140172",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555253/1/?bust=1644350775&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555253/1/?bust=1644350775&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555253/1/?bust=1644350775&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555253/1/?bust=1644350775"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555253/1/?bust=1644350775&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555253/1/?bust=1644350775&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555253/1/?bust=1644350775&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555253/1/?bust=1644350775"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-02-08T19:55:09+0000",
+      "published_at": "2022-02-08T19:55:09+0000",
+      "distance": 13.6845,
+      "contact": {
+        "email": "dasadopt@dallascityhall.com",
+        "phone": "(214) 671-0249",
+        "address": {
+          "address1": "1818 N. Westmoreland",
+          "address2": null,
+          "city": "Dallas",
+          "state": "TX",
+          "postcode": "75212",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/54555253"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tx236"
+        }
+      }
+    },
+    {
+      "id": 54555252,
+      "organization_id": "TX236",
+      "url": "https://www.petfinder.com/dog/1140171-54555252/tx/dallas/dallas-animal-services-and-adoption-center-tx236/?referrer_id=48cc91d9-65e0-4e61-890c-07ebc51372d4",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Collie",
+        "secondary": "Mixed Breed",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "1140171",
+      "description": null,
+      "organization_animal_id": "A1140171",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555252/1/?bust=1644350737&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555252/1/?bust=1644350737&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555252/1/?bust=1644350737&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555252/1/?bust=1644350737"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555252/1/?bust=1644350737&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555252/1/?bust=1644350737&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555252/1/?bust=1644350737&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555252/1/?bust=1644350737"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-02-08T19:55:09+0000",
+      "published_at": "2022-02-08T19:55:09+0000",
+      "distance": 13.6845,
+      "contact": {
+        "email": "dasadopt@dallascityhall.com",
+        "phone": "(214) 671-0249",
+        "address": {
+          "address1": "1818 N. Westmoreland",
+          "address2": null,
+          "city": "Dallas",
+          "state": "TX",
+          "postcode": "75212",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/54555252"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tx236"
+        }
+      }
+    },
+    {
+      "id": 54555251,
+      "organization_id": "TX236",
+      "url": "https://www.petfinder.com/dog/a1140179-54555251/tx/dallas/dallas-animal-services-and-adoption-center-tx236/?referrer_id=48cc91d9-65e0-4e61-890c-07ebc51372d4",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Labrador Retriever",
+        "secondary": "Mixed Breed",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "A1140179",
+      "description": null,
+      "organization_animal_id": "A1140179",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555251/1/?bust=1644350763&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555251/1/?bust=1644350763&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555251/1/?bust=1644350763&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555251/1/?bust=1644350763"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555251/1/?bust=1644350763&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555251/1/?bust=1644350763&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555251/1/?bust=1644350763&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555251/1/?bust=1644350763"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-02-08T19:55:09+0000",
+      "published_at": "2022-02-08T19:55:09+0000",
+      "distance": 13.6845,
+      "contact": {
+        "email": "dasadopt@dallascityhall.com",
+        "phone": "(214) 671-0249",
+        "address": {
+          "address1": "1818 N. Westmoreland",
+          "address2": null,
+          "city": "Dallas",
+          "state": "TX",
+          "postcode": "75212",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/54555251"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tx236"
+        }
+      }
+    },
+    {
+      "id": 54555232,
+      "organization_id": "TX1659",
+      "url": "https://www.petfinder.com/dog/whiskey-54555232/tx/grand-prairie/grand-prairie-animal-services-tx1659/?referrer_id=48cc91d9-65e0-4e61-890c-07ebc51372d4",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Siberian Husky",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Large",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "WHISKEY",
+      "description": null,
+      "organization_animal_id": "A195895",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555232/1/?bust=1644356161&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555232/1/?bust=1644356161&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555232/1/?bust=1644356161&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555232/1/?bust=1644356161"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555232/1/?bust=1644356161&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555232/1/?bust=1644356161&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555232/1/?bust=1644356161&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555232/1/?bust=1644356161"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-02-08T19:55:05+0000",
+      "published_at": "2022-02-08T19:55:05+0000",
+      "distance": 11.355,
+      "contact": {
+        "email": "prairiepawsanimalinfo@gptx.org",
+        "phone": "(972) 237-8575",
+        "address": {
+          "address1": "2222 West Warrior Trail",
+          "address2": null,
+          "city": "Grand Prairie",
+          "state": "TX",
+          "postcode": "75052",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/54555232"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tx1659"
+        }
+      }
+    },
+    {
+      "id": 54555148,
+      "organization_id": "TX671",
+      "url": "https://www.petfinder.com/dog/coach-beard-54555148/tx/carrollton/lost-paws-rescue-of-texas-tx671/?referrer_id=48cc91d9-65e0-4e61-890c-07ebc51372d4",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Basset Hound",
+        "secondary": "Terrier",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Brown / Chocolate",
+        "secondary": "White / Cream",
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": "Medium",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": null
+      },
+      "tags": [
+        "Friendly",
+        "Affectionate",
+        "Smart",
+        "Playful"
+      ],
+      "name": "Coach Beard",
+      "description": "BREED-Basset/ Terrier Mix;\n\nSEX-Male;\n\nSIZE-Medium;\n\nWEIGHT-25 lbs.;\n\nAGE-Approximately 2 Years;\n\nSPAY/NEUTER-Yes;\n\nHOUSETRAINED-Currently Uses Doggie Door;\n\nGOOD WITH KIDS-Yes;\n\nGOOD WITH...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555148/1/?bust=1644350163&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555148/1/?bust=1644350163&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555148/1/?bust=1644350163&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555148/1/?bust=1644350163"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555148/1/?bust=1644350163&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555148/1/?bust=1644350163&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555148/1/?bust=1644350163&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54555148/1/?bust=1644350163"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-02-08T19:49:02+0000",
+      "published_at": "2022-02-08T19:49:02+0000",
+      "distance": 14.0471,
+      "contact": {
+        "email": "lostpawsrescueoftexas@yahoo.com",
+        "phone": null,
+        "address": {
+          "address1": "P O Box 116256",
+          "address2": null,
+          "city": "Carrollton",
+          "state": "TX",
+          "postcode": "75011",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/54555148"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tx671"
+        }
+      }
+    },
+    {
+      "id": 54553983,
+      "organization_id": "TX79",
+      "url": "https://www.petfinder.com/dog/sweetie-pie-aka-millie-54553983/tx/denton/city-of-denton-animal-services-tx79/?referrer_id=48cc91d9-65e0-4e61-890c-07ebc51372d4",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Vizsla",
+        "secondary": "Pit Bull Terrier",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Golden",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [
+        "Friendly",
+        "Affectionate",
+        "Playful",
+        "Smart",
+        "Curious",
+        "Funny",
+        "Couch potato",
+        "Loves kisses",
+        "Gentle"
+      ],
+      "name": "Sweetie Pie AKA Millie ",
+      "description": "AVA 2/12/ 22\nMillie is a 5 month old Visla / Pit Bull mix. She has been in an exceptional...",
+      "organization_animal_id": "96191",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553983/1/?bust=1644347126&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553983/1/?bust=1644347126&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553983/1/?bust=1644347126&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553983/1/?bust=1644347126"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553983/2/?bust=1644347127&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553983/2/?bust=1644347127&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553983/2/?bust=1644347127&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553983/2/?bust=1644347127"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553983/3/?bust=1644347127&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553983/3/?bust=1644347127&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553983/3/?bust=1644347127&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553983/3/?bust=1644347127"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553983/4/?bust=1644347128&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553983/4/?bust=1644347128&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553983/4/?bust=1644347128&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553983/4/?bust=1644347128"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553983/5/?bust=1644347128&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553983/5/?bust=1644347128&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553983/5/?bust=1644347128&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553983/5/?bust=1644347128"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553983/1/?bust=1644347126&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553983/1/?bust=1644347126&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553983/1/?bust=1644347126&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553983/1/?bust=1644347126"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-02-08T19:14:05+0000",
+      "published_at": "2022-02-08T19:14:05+0000",
+      "distance": 27.1374,
+      "contact": {
+        "email": "Animal.Services@cityofdenton.com",
+        "phone": "(940) 349-7594",
+        "address": {
+          "address1": "3717 N Elm Street",
+          "address2": null,
+          "city": "Denton",
+          "state": "TX",
+          "postcode": "76205",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/54553983"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tx79"
+        }
+      }
+    },
+    {
+      "id": 54554084,
+      "organization_id": "TX2587",
+      "url": "https://www.petfinder.com/dog/maya-54554084/tx/arlington/gracie-lou-rescue-and-rehab-inc-tx2587/?referrer_id=48cc91d9-65e0-4e61-890c-07ebc51372d4",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Labrador Retriever",
+        "secondary": "American Staffordshire Terrier",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Bicolor",
+        "secondary": "Black",
+        "tertiary": "White / Cream"
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [
+        "Friendly",
+        "Affectionate",
+        "Loyal",
+        "Smart",
+        "Playful",
+        "Gentle",
+        "Funny",
+        "Quiet",
+        "Loves kisses",
+        "Couch potato"
+      ],
+      "name": "Maya",
+      "description": "Maya Maya Maya ? \n\nWhat more can you say. She is a complete heartbreaker with her adorable floppy ears and...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54554084/1/?bust=1644347290&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54554084/1/?bust=1644347290&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54554084/1/?bust=1644347290&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54554084/1/?bust=1644347290"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54554084/2/?bust=1644347291&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54554084/2/?bust=1644347291&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54554084/2/?bust=1644347291&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54554084/2/?bust=1644347291"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54554084/1/?bust=1644347290&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54554084/1/?bust=1644347290&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54554084/1/?bust=1644347290&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54554084/1/?bust=1644347290"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-02-08T19:08:12+0000",
+      "published_at": "2022-02-08T19:08:12+0000",
+      "distance": 16.0803,
+      "contact": {
+        "email": "roxanne@gracielourescue.org",
+        "phone": "(682) 800-5111",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Arlington",
+          "state": "TX",
+          "postcode": "76002",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/54554084"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tx2587"
+        }
+      }
+    },
+    {
+      "id": 54554079,
+      "organization_id": "TX16",
+      "url": "https://www.petfinder.com/dog/newton-54554079/tx/north-richland-hills/north-richland-hills-animal-adoption-and-rescue-center-tx16/?referrer_id=48cc91d9-65e0-4e61-890c-07ebc51372d4",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Labrador Retriever",
+        "secondary": "Mixed Breed",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Newton",
+      "description": null,
+      "organization_animal_id": "49444180",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54554079/1/?bust=1644347999&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54554079/1/?bust=1644347999&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54554079/1/?bust=1644347999&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54554079/1/?bust=1644347999"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54554079/2/?bust=1644347969&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54554079/2/?bust=1644347969&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54554079/2/?bust=1644347969&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54554079/2/?bust=1644347969"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54554079/3/?bust=1644347999&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54554079/3/?bust=1644347999&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54554079/3/?bust=1644347999&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54554079/3/?bust=1644347999"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54554079/1/?bust=1644347999&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54554079/1/?bust=1644347999&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54554079/1/?bust=1644347999&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54554079/1/?bust=1644347999"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-02-08T19:06:53+0000",
+      "published_at": "2022-02-08T19:06:53+0000",
+      "distance": 8.5129,
+      "contact": {
+        "email": "AnimalControl2@nrhtx.com",
+        "phone": "(817) 427-6570",
+        "address": {
+          "address1": "7301 Iron Horse Blvd",
+          "address2": null,
+          "city": "North Richland Hills",
+          "state": "TX",
+          "postcode": "76180",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/54554079"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tx16"
+        }
+      }
+    },
+    {
+      "id": 54554080,
+      "organization_id": "TX16",
+      "url": "https://www.petfinder.com/dog/farlow-54554080/tx/north-richland-hills/north-richland-hills-animal-adoption-and-rescue-center-tx16/?referrer_id=48cc91d9-65e0-4e61-890c-07ebc51372d4",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Labrador Retriever",
+        "secondary": "Mixed Breed",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Farlow",
+      "description": null,
+      "organization_animal_id": "49444231",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54554080/1/?bust=1644347988&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54554080/1/?bust=1644347988&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54554080/1/?bust=1644347988&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54554080/1/?bust=1644347988"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54554080/2/?bust=1644347978&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54554080/2/?bust=1644347978&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54554080/2/?bust=1644347978&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54554080/2/?bust=1644347978"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54554080/1/?bust=1644347988&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54554080/1/?bust=1644347988&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54554080/1/?bust=1644347988&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54554080/1/?bust=1644347988"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-02-08T19:06:52+0000",
+      "published_at": "2022-02-08T19:06:52+0000",
+      "distance": 8.5129,
+      "contact": {
+        "email": "AnimalControl2@nrhtx.com",
+        "phone": "(817) 427-6570",
+        "address": {
+          "address1": "7301 Iron Horse Blvd",
+          "address2": null,
+          "city": "North Richland Hills",
+          "state": "TX",
+          "postcode": "76180",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/54554080"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tx16"
+        }
+      }
+    },
+    {
+      "id": 54554077,
+      "organization_id": "TX2337",
+      "url": "https://www.petfinder.com/dog/kevin-54554077/tx/fort-worth/saving-hope-animal-rescue-fund-tx2337/?referrer_id=48cc91d9-65e0-4e61-890c-07ebc51372d4",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Shepherd",
+        "secondary": "Mixed Breed",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Kevin",
+      "description": "Meet Kevin! \n\nKevin is a 2 month old shepherd mix. He loves to play with his sister and toys, but...",
+      "organization_animal_id": "49429541",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54554077/1/?bust=1644347991&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54554077/1/?bust=1644347991&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54554077/1/?bust=1644347991&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54554077/1/?bust=1644347991"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54554077/2/?bust=1644347988&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54554077/2/?bust=1644347988&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54554077/2/?bust=1644347988&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54554077/2/?bust=1644347988"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54554077/3/?bust=1644347994&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54554077/3/?bust=1644347994&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54554077/3/?bust=1644347994&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54554077/3/?bust=1644347994"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54554077/1/?bust=1644347991&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54554077/1/?bust=1644347991&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54554077/1/?bust=1644347991&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54554077/1/?bust=1644347991"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-02-08T19:06:45+0000",
+      "published_at": "2022-02-08T19:06:45+0000",
+      "distance": 15.6394,
+      "contact": {
+        "email": "savinghopeinquiries@gmail.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Fort Worth",
+          "state": "TX",
+          "postcode": "76102",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/54554077"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tx2337"
+        }
+      }
+    },
+    {
+      "id": 54553934,
+      "organization_id": "TX1353",
+      "url": "https://www.petfinder.com/dog/moon-54553934/tx/dallas/dash-dog-rescue-tx1353/?referrer_id=48cc91d9-65e0-4e61-890c-07ebc51372d4",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "German Shepherd Dog",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Female",
+      "size": "Large",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [],
+      "name": "Moon",
+      "description": "APPLICATION REQUIRED from www.dashdog.org\nAdoption Fee $350\n\n***We don&amp;#39;t know how to make this more clear: OUR APPLICATION IS NOT...",
+      "organization_animal_id": "17752015-D220009",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553934/1/?bust=1644347427&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553934/1/?bust=1644347427&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553934/1/?bust=1644347427&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553934/1/?bust=1644347427"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553934/2/?bust=1644347428&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553934/2/?bust=1644347428&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553934/2/?bust=1644347428&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553934/2/?bust=1644347428"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553934/3/?bust=1644347423&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553934/3/?bust=1644347423&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553934/3/?bust=1644347423&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553934/3/?bust=1644347423"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553934/1/?bust=1644347427&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553934/1/?bust=1644347427&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553934/1/?bust=1644347427&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553934/1/?bust=1644347427"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-02-08T19:00:07+0000",
+      "published_at": "2022-02-08T19:00:07+0000",
+      "distance": 19.232,
+      "contact": {
+        "email": "sara@dashdog.org",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Dallas",
+          "state": "TX",
+          "postcode": "75248",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/54553934"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tx1353"
+        }
+      }
+    },
+    {
+      "id": 54553931,
+      "organization_id": "TX2587",
+      "url": "https://www.petfinder.com/dog/jecoco-54553931/tx/arlington/gracie-lou-rescue-and-rehab-inc-tx2587/?referrer_id=48cc91d9-65e0-4e61-890c-07ebc51372d4",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Labrador Retriever",
+        "secondary": "American Staffordshire Terrier",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Female",
+      "size": "Large",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": true,
+        "cats": null
+      },
+      "tags": [
+        "Friendly",
+        "Loyal",
+        "Smart",
+        "Playful",
+        "Funny"
+      ],
+      "name": "Jecoco",
+      "description": "Meet Jecoco ???\n\nShe is as fun as she looks and enjoys going for a good long walk with her...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553931/1/?bust=1644346801&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553931/1/?bust=1644346801&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553931/1/?bust=1644346801&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553931/1/?bust=1644346801"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553931/2/?bust=1644346803&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553931/2/?bust=1644346803&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553931/2/?bust=1644346803&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553931/2/?bust=1644346803"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553931/3/?bust=1644346804&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553931/3/?bust=1644346804&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553931/3/?bust=1644346804&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553931/3/?bust=1644346804"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553931/1/?bust=1644346801&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553931/1/?bust=1644346801&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553931/1/?bust=1644346801&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553931/1/?bust=1644346801"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-02-08T19:00:06+0000",
+      "published_at": "2022-02-08T19:00:06+0000",
+      "distance": 16.0803,
+      "contact": {
+        "email": "roxanne@gracielourescue.org",
+        "phone": "(682) 800-5111",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Arlington",
+          "state": "TX",
+          "postcode": "76002",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/54553931"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tx2587"
+        }
+      }
+    },
+    {
+      "id": 54553932,
+      "organization_id": "TX2103",
+      "url": "https://www.petfinder.com/dog/jade-54553932/tx/midlothian/city-of-midlothian-animal-shelter-tx2103/?referrer_id=48cc91d9-65e0-4e61-890c-07ebc51372d4",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Retriever",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "White / Cream",
+        "secondary": "Red / Chestnut / Orange",
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": "Medium",
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": null
+      },
+      "tags": [
+        "Friendly",
+        "Affectionate",
+        "Gentle",
+        "Curious",
+        "Funny",
+        "Quiet",
+        "Loves kisses"
+      ],
+      "name": "Jade ",
+      "description": "AVAILABLE FOR ADOPTION 02/07/2022\n\nJade is a 43 pound 1 year old female Retriever Mix found February 2, 2022 on...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553932/1/?bust=1644346802&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553932/1/?bust=1644346802&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553932/1/?bust=1644346802&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553932/1/?bust=1644346802"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553932/1/?bust=1644346802&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553932/1/?bust=1644346802&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553932/1/?bust=1644346802&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54553932/1/?bust=1644346802"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-02-08T19:00:04+0000",
+      "published_at": "2022-02-08T19:00:04+0000",
+      "distance": 25.7725,
+      "contact": {
+        "email": "animal.services@midlothian.tx.us",
+        "phone": "(972) 775-7628",
+        "address": {
+          "address1": "1050 U.S. 67 Frontage Road",
+          "address2": null,
+          "city": "Midlothian",
+          "state": "TX",
+          "postcode": "76065",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/54553932"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tx2103"
+        }
+      }
+    }
+  ],
+  "pagination": {
+    "count_per_page": 40,
+    "total_count": 4467,
+    "current_page": 1,
+    "total_pages": 112,
+    "_links": {
+      "next": {
+        "href": "/v2/animals?limit=40&location=76039&page=2&status=adoptable&type=dog"
+      }
+    }
+  }
+}

@@ -16,12 +16,13 @@ function FindAFriend() {
   //function to fetch animals and store in state
   async function fetchAnimals(){
     try{
-        const response = await fetch('/pet.json');
+        // const response = await fetch('/pet.json');
         // console.log(response);
+        const response = await fetch('/api/getPets');
         const responseJSON = await response.json()
-        // console.log(responseJSON);
+        console.log(responseJSON);
         //updates state with Animals
-        setAnimals(responseJSON.result.animals)
+        setAnimals(responseJSON.animals)
     } catch(err) {
       console.log(err)
     }
@@ -35,8 +36,8 @@ function FindAFriend() {
     <Container maxW="container.xl">
     <SimpleGrid minChildWidth='350px' spacing='40px'>
         {animals.map((pet)=>{
-          console.log(pet.animal.id);
-            return <Animal key={pet.animal.id} pet={pet}/>
+          console.log(pet.id);
+            return <Animal key={pet.id} pet={pet}/>
         })}
     </SimpleGrid>
     </Container>

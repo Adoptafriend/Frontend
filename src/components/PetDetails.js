@@ -22,17 +22,18 @@ import {
   import { Link, useParams } from "react-router-dom";
 
 
-  
+
   export default function Simple() {
     let { id } = useParams();
     const [pet, setPet]=useState({})
 
+
     async function fetchPetDetails(){
         try{
-            const response = await fetch('/pet.json');
+          const response = await fetch('/api/getPets');
             // console.log(response);
             const responseJSON = await response.json()
-             console.log(responseJSON);
+            console.log(responseJSON);
             //updates state with Animals
             const responsePet = responseJSON.result.animals.find(animal => parseInt(animal.animal.id) === parseInt(id))
             console.log(responsePet);
@@ -41,14 +42,14 @@ import {
           console.log(err)
         }
       }
-    
+
       //upon initial render, run the fetchAnimals() function
       useEffect(() => {
         fetchPetDetails()
-      }, [id]) 
+      }, [id])
 
     return (
-        
+
       <Container maxW={'7xl'}>
         <SimpleGrid
           columns={{ base: 1, lg: 2 }}
@@ -83,11 +84,11 @@ import {
                   color={useColorModeValue('gray.500', 'gray.400')}
                   fontSize={'2xl'}
                   fontWeight={'300'}>
-                    {pet.animal?.age} • {pet.animal?.sex} • {pet.animal?.size}       
+                    {pet.animal?.age} • {pet.animal?.sex} • {pet.animal?.size}
               </Text>
-                
+
             </Box>
-  
+
             <Stack
               spacing={{ base: 4, sm: 6 }}
               direction={'column'}
@@ -97,9 +98,9 @@ import {
                 />
               }>
               <VStack spacing={{ base: 4, sm: 6 }}>
-               
+
               </VStack>
-              
+
               <Box>
                 <Text
                   fontSize={{ base: '16px', lg: '18px' }}
@@ -109,7 +110,7 @@ import {
                   mb={'4'}>
                   Facts about me
                 </Text>
-  
+
                 <List spacing={2}>
                   <ListItem>
                     <Text as={'span'} fontWeight={'bold'}>
@@ -170,11 +171,11 @@ import {
               </Box>
             </Stack>
 
-            
+
                 <Text fontSize={'lg'}>
                 {pet.animal?.description}
                 </Text>
-  
+
             {/* <Button
               rounded={'none'}
               w={'full'}
@@ -190,7 +191,7 @@ import {
               }}>
               Add to cart
             </Button> */}
-  
+
             {/* <Stack direction="row" alignItems="center" justifyContent={'center'}>
               <MdLocalShipping />
               <Text>2-3 business days delivery</Text>
@@ -199,6 +200,6 @@ import {
         </SimpleGrid>
       </Container>
 
-        
+
     );
   }

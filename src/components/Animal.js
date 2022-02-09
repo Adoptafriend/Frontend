@@ -13,9 +13,9 @@ import {
 
 
 function Animal({ pet }) {
-  // console.log(pet.animal);
+  // console.log(pet);
   return (
-    <Link href={`/findafriend/${pet.animal.id}`}>
+    <Link href={`/findafriend/${pet.id}`}>
     <Flex p={50} w="full" alignItems="center" justifyContent="center">
       <Box
         bg={useColorModeValue('white', 'gray.800')}
@@ -26,11 +26,11 @@ function Animal({ pet }) {
         position="relative">
 
         <Image
-          src={pet.animal.primary_photo_cropped_url}
+          src={pet.primary_photo_cropped?.medium ? pet.primary_photo_cropped.medium :'https://via.placeholder.com/300'}
           boxSize='350px'
           // width="450px"
           objectFit='contain'
-          alt={`Picture of ${pet.animal.name}`}
+          alt={`Picture of ${pet.name}`}
           roundedTop="lg"
         />
 
@@ -49,7 +49,7 @@ function Animal({ pet }) {
               as="h4"
               lineHeight="tight"
               isTruncated>
-              {pet.animal.name}
+              {pet.name}
             </Box>
 
             {/* <Tooltip
@@ -70,7 +70,7 @@ function Animal({ pet }) {
 
               lineHeight="tight"
               isTruncated>
-              {pet.animal.breeds_label}
+              {pet.breeds_label}
             </Box>
           {/* <Flex justifyContent="space-between" alignContent="center">
             <Rating rating={data.rating} numReviews={data.numReviews} />
