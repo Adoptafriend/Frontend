@@ -30,14 +30,14 @@ import {
 
     async function fetchPetDetails(){
         try{
-          const response = await fetch('/api/getPets');
+          const response = await fetch(`/api/pets/${id}`);
             // console.log(response);
             const responseJSON = await response.json()
             console.log(responseJSON);
             //updates state with Animals
-            const responsePet = responseJSON.result.animals.find(animal => parseInt(animal.animal.id) === parseInt(id))
-            console.log(responsePet);
-            setPet(responsePet);
+            // const responsePet = responseJSON.animal;
+            // console.log(responsePet);
+            setPet(responseJSON);
         } catch(err) {
           console.log(err)
         }
@@ -59,7 +59,7 @@ import {
             <Image
               rounded={'md'}
               alt={'pet image'}
-              src={pet.animal?.primary_photo_cropped_url}
+              src={pet.animal?.primary_photo_cropped.medium}
               fit={'contain'}
               align={'center'}
               w={'100%'}
@@ -84,7 +84,7 @@ import {
                   color={useColorModeValue('gray.500', 'gray.400')}
                   fontSize={'2xl'}
                   fontWeight={'300'}>
-                    {pet.animal?.age} • {pet.animal?.sex} • {pet.animal?.size}
+                    {pet.animal?.age} • {pet.animal?.gender} • {pet.animal?.size}
               </Text>
 
             </Box>
@@ -116,19 +116,19 @@ import {
                     <Text as={'span'} fontWeight={'bold'}>
                     HOUSE-TRAINED:
                     </Text>{' '}
-                   {pet.animal?.attributes.includes('House trained') ? 'Yes' : 'No'}
+                   {pet.animal?.attributes.house_trained ? 'Yes' : 'No'}
                   </ListItem>
                   <ListItem>
                     <Text as={'span'} fontWeight={'bold'}>
                     VACCINATION UP TO DATE:
                     </Text>{' '}
-                   {pet.animal?.attributes.includes('Shots Current') ? 'Yes' : 'No'}
+                   {pet.animal?.attributes.shots_current ? 'Yes' : 'No'}
                   </ListItem>
                   <ListItem>
                     <Text as={'span'} fontWeight={'bold'}>
                     SPAYED/NEUTERD:
                     </Text>{' '}
-                   {pet.animal?.attributes.includes('Spay/Neuter') ? 'Yes' : 'No'}
+                   {pet.animal?.attributes.spayed_neutered ? 'Yes' : 'No'}
                   </ListItem>
                   {/* <ListItem>
                     <Text as={'span'} fontWeight={'bold'}>

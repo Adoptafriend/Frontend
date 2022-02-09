@@ -18,7 +18,7 @@ function FindAFriend() {
     try{
         // const response = await fetch('/pet.json');
         // console.log(response);
-        const response = await fetch('/api/getPets');
+        const response = await fetch('/api/pets');
         const responseJSON = await response.json()
         console.log(responseJSON);
         //updates state with Animals
