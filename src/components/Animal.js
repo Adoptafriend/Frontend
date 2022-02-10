@@ -43,7 +43,7 @@ function Animal({ pet }) {
               lineHeight="tight"
               isTruncated
             >
-              {pet.breeds_label}
+              {`${pet.breeds?.primary}`}
             </Box>
           </Box>
         </Box>

@@ -116,7 +116,7 @@ const DesktopNav = () => {
               <Link
                 p={2}
                 as={NavLink}
-                exact
+                exact={'true'}
                 to={navItem.href ?? '#'}
                 fontSize={'lg'}
                 fontWeight={500}
