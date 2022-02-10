@@ -1,10 +1,8 @@
 import {
   Box,
   Flex,
-  Image,
   Text,
   IconButton,
-  Button,
   Stack,
   Collapse,
   Icon,
@@ -13,9 +11,9 @@ import {
   PopoverTrigger,
   PopoverContent,
   useColorModeValue,
-  useBreakpointValue,
   useDisclosure,
 } from '@chakra-ui/react';
+import { Link as RouterLink, NavLink } from 'react-router-dom';
 import {
   HamburgerIcon,
   CloseIcon,
@@ -41,7 +39,6 @@ export default function WithSubnavigation() {
         borderColor={useColorModeValue('gray.200', 'gray.900')}
         align={'center'}
       >
-
         <Flex
           flex={{ base: 1, md: 'auto' }}
           ml={{ base: -2 }}
@@ -56,21 +53,11 @@ export default function WithSubnavigation() {
             aria-label={'Toggle Navigation'}
           />
         </Flex>
-        <Flex flex={{ base: 1 }} justify={{ base: 'left', md: 'start' }} minWidth={'175px'}>
-          {/* <Image
-            boxSize='45px'
-            objectFit='cover'
-            src='/images/logo.png'
-            alt=""
-          /> */}
-          {/* <Text
-            textAlign={useBreakpointValue({ base: 'center', md: 'left'})}
-            mt={'15px'}
-            fontFamily={'heading'}
-            fontWeight={'800'}
-            color={useColorModeValue('#2F190D', 'white')}
-          >Adopt a Friend
-          </Text> */}
+        <Flex
+          flex={{ base: 1 }}
+          justify={{ base: 'left', md: 'start' }}
+          minWidth={'175px'}
+        >
           <Logo />
           <Flex display={{ base: 'none', md: 'flex' }} ml={10}>
             <DesktopNav />
@@ -84,7 +71,7 @@ export default function WithSubnavigation() {
           spacing={6}
         >
           <ColorModeSwitcher justifySelf="flex-end" />
-          <Button
+          {/* <Button
             as={'a'}
             fontSize={'sm'}
             fontWeight={400}
@@ -105,7 +92,7 @@ export default function WithSubnavigation() {
             }}
           >
             Sign Up
-          </Button>
+          </Button> */}
         </Stack>
       </Flex>
 
@@ -119,7 +106,7 @@ const DesktopNav = () => {
   const linkColor = useColorModeValue('gray.600', 'gray.200');
   const linkHoverColor = useColorModeValue('gray.800', 'white');
   const popoverContentBgColor = useColorModeValue('white', 'gray.800');
-
+  const activeLinkColor = useColorModeValue('black', 'white');
   return (
     <Stack direction={'row'} spacing={4} mt={'20px'}>
       {NAV_ITEMS.map(navItem => (
@@ -128,20 +115,24 @@ const DesktopNav = () => {
             <PopoverTrigger>
               <Link
                 p={2}
-                href={navItem.href ?? '#'}
+                as={NavLink}
+                exact
+                to={navItem.href ?? '#'}
                 fontSize={'lg'}
                 fontWeight={500}
-
                 color={linkColor}
                 _hover={{
                   textDecoration: 'none',
                   color: linkHoverColor,
                 }}
+                _activeLink={{
+                  fontWeight: 'bold',
+                  color: activeLinkColor,
+                }}
               >
                 {navItem.label}
               </Link>
             </PopoverTrigger>
-
             {navItem.children && (
               <PopoverContent
                 border={0}
@@ -223,8 +214,8 @@ const MobileNavItem = ({ label, children, href }) => {
     <Stack spacing={4} onClick={children && onToggle}>
       <Flex
         py={2}
-        as={Link}
-        href={href ?? '#'}
+        as={RouterLink}
+        to={href ?? '#'}
         justify={'space-between'}
         align={'center'}
         _hover={{
@@ -274,13 +265,13 @@ const NAV_ITEMS = [
     label: 'Home',
     href: '/',
   },
-  //   {
+  // {
   //   label: 'Inspiration',
   //   href: '/inspiration',
   // },
   {
     label: 'Find a Friend',
-    href: '/findafriend'
+    href: '/findafriend',
   },
   {
     label: 'About Us',

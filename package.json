@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "proxy": "http://localhost:3500",
+  "homepage": "https://well-fed-devs.herokuapp.com/",
   "dependencies": {
     "@chakra-ui/icons": "^1.1.1",
     "@chakra-ui/react": "^1.8.1",
@@ -47,8 +48,8 @@
     "@babel/preset-env": "^7.16.11",
     "@babel/preset-react": "^7.16.7",
     "babel-jest": "^27.4.6",
-    "react-test-renderer": "^17.0.2",
-    "jest": "^27.4.7"
+    "jest": "^27.4.7",
+    "react-test-renderer": "^17.0.2"
   },
   "babel": {
     "presets": [

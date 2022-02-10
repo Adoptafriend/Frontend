@@ -1,47 +1,35 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
+import { Container, SimpleGrid } from '@chakra-ui/react';
 import Animal from './Animal';
-import {
-  Flex,
-  Spacer,
-  Container,
-  SimpleGrid,
-} from '@chakra-ui/react';
 
 function FindAFriend() {
-  // const jsonData = require('../pet.json');
-  // const animals = jsonData.result.animals;
-  // console.log(animals.length);
-  const [animals, setAnimals]=useState([])
+  const [animals, setAnimals] = useState([]);
 
-  //function to fetch animals and store in state
-  async function fetchAnimals(){
-    try{
-        // const response = await fetch('/pet.json');
-        // console.log(response);
-        const response = await fetch('/api/pets');
-        const responseJSON = await response.json()
-        console.log(responseJSON);
-        //updates state with Animals
-        setAnimals(responseJSON.animals)
-    } catch(err) {
-      console.log(err)
+  // function to fetch animals and store in state
+  async function fetchAnimals() {
+    try {
+      const response = await fetch('/api/pets');
+      const responseJSON = await response.json();
+      setAnimals(responseJSON.animals);
+    } catch (err) {
+      console.log(err);
     }
   }
 
-  //upon initial render, run the fetchAnimals() function
+  // upon initial render, run the fetchAnimals() function
   useEffect(() => {
-    fetchAnimals()
-  }, [])
+    fetchAnimals();
+  }, []);
+
   return (
     <Container maxW="container.xl">
-    <SimpleGrid minChildWidth='350px' spacing='40px'>
-        {animals.map((pet)=>{
-          console.log(pet.id);
-            return <Animal key={pet.id} pet={pet}/>
+      <SimpleGrid minChildWidth="350px" spacing="40px">
+        {animals.map(pet => {
+          return <Animal key={pet.id} pet={pet} />;
         })}
-    </SimpleGrid>
+      </SimpleGrid>
     </Container>
-);
+  );
 }
 
 export default FindAFriend;
