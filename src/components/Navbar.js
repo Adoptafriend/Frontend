@@ -126,7 +126,6 @@ const DesktopNav = () => {
                   color: linkHoverColor,
                 }}
                 _activeLink={{
-                  fontWeight: 'bold',
                   color: activeLinkColor,
                 }}
               >
