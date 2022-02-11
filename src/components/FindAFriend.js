@@ -1,13 +1,5 @@
 import { useState, useEffect } from 'react';
-import {
-  // Pagination,
-  usePagination,
-  // PaginationNext,
-  // PaginationPage,
-  // PaginationPrevious,
-  // PaginationContainer,
-  // PaginationPageGroup,
-} from '@ajna/pagination';
+import { usePagination } from '@ajna/pagination';
 import { Container, SimpleGrid } from '@chakra-ui/react';
 import Animal from './Animal';
 import LocationForm from './LocationForm';
@@ -42,7 +34,6 @@ function FindAFriend() {
       const response = await fetch(`/api/pets?${searchParams.toString()}`);
       const responseJSON = await response.json();
       setAnimals(responseJSON.animals);
-      console.log(responseJSON.pagination.total_count);
       setAnimalsCount(responseJSON.pagination.total_count);
     } catch (err) {
       console.log(err);

@@ -1,8 +1,5 @@
-import React, { FC, ChangeEvent, useEffect, useState } from 'react';
-// import { ChakraProvider } from '@chakra-ui/react';
 import {
   Pagination,
-  // usePagination,
   PaginationNext,
   PaginationPage,
   PaginationPrevious,
@@ -16,7 +13,6 @@ const FindPagination = ({ currentPage, onPageChange, pagesCount, pages }) => {
   }
 
   return (
-    // <ChakraProvider>
     <Pagination
       pagesCount={pagesCount}
       currentPage={currentPage}
@@ -32,7 +28,6 @@ const FindPagination = ({ currentPage, onPageChange, pagesCount, pages }) => {
         <PaginationNext>Next</PaginationNext>
       </PaginationContainer>
     </Pagination>
-    // </ChakraProvider>
   );
 };
 
