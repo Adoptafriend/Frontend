@@ -17,7 +17,7 @@ function Animal({ pet }) {
             src={
               pet.primary_photo_cropped?.medium
                 ? pet.primary_photo_cropped.medium
-                : 'https://via.placeholder.com/300'
+                : '/images/dog-placeholder.png'
             }
             boxSize="350px"
             objectFit="contain"

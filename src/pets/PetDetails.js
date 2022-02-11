@@ -46,7 +46,11 @@ function PetDetails() {
           <Image
             rounded={'md'}
             alt={'pet image'}
-            src={pet.animal?.primary_photo_cropped.medium}
+            src={
+              pet.animal?.primary_photo_cropped.medium
+                ? pet.animal.primary_photo_cropped.medium
+                : '/images/dog-placeholder.png'
+            }
             fit={'contain'}
             align={'center'}
             w={'100%'}

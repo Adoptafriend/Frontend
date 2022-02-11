@@ -1,14 +1,21 @@
 import { useState, useEffect } from 'react';
 import { usePagination } from '@ajna/pagination';
-import { Container, SimpleGrid } from '@chakra-ui/react';
+import { Container, SimpleGrid, Skeleton, SkeletonCircle, SkeletonText  } from '@chakra-ui/react';
 import Animal from './Animal';
 import LocationForm from './LocationForm';
 import FindPagination from './FindPagination';
 
+
+
 function FindAFriend() {
-  const [animals, setAnimals] = useState([]);
+  const initialAnimalState = Array.from({ length: 12 }, (v, i) => {
+    return {};
+  });
+  const [isLoadedState, setIsLoadedState] = useState(false);
+  const [animals, setAnimals] = useState(initialAnimalState);
   const [animalsCount, setAnimalsCount] = useState(0);
   const [zipState, setZipState] = useState('');
+
 
   const outerLimit = 1;
   const innerLimit = 2;
@@ -25,15 +32,17 @@ function FindAFriend() {
   // function to fetch animals and store in state
   async function fetchAnimals() {
     let search = {
+
       limit: 12,
       location: zipState,
       page: currentPage,
     };
     let searchParams = new URLSearchParams(search);
     try {
-      const response = await fetch(`/api/pets?${searchParams.toString()}`);
-      const responseJSON = await response.json();
+      const response = await fetch(`/api/pets?${searchParams.toString()}`)
+      const responseJSON = await response.json()
       setAnimals(responseJSON.animals);
+      setIsLoadedState(true);
       setAnimalsCount(responseJSON.pagination.total_count);
     } catch (err) {
       console.log(err);
@@ -58,7 +67,11 @@ function FindAFriend() {
       <LocationForm onZipChange={handleZipChange} />
       <SimpleGrid minChildWidth="350px" spacing="40px">
         {animals.map(pet => {
-          return <Animal key={pet.id} pet={pet} />;
+          return (
+            <Skeleton isLoaded={isLoadedState}>
+              <Animal key={pet.id} pet={pet}/>
+              </Skeleton>
+          )
         })}
       </SimpleGrid>
       <FindPagination
