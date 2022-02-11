@@ -112,7 +112,7 @@ function PetDetails() {
                 </ListItem>
                 <ListItem>
                   <Text as={'span'} fontWeight={'bold'}>
-                    SPAYED/NEUTERD:
+                    SPAYED/NEUTERED:
                   </Text>{' '}
                   {pet.animal?.attributes.spayed_neutered ? 'Yes' : 'No'}
                 </ListItem>

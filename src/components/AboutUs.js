@@ -27,26 +27,24 @@ function AboutUs() {
           </Text>
         </Heading>
         <Text color={'gray.500'} maxW={'3xl'} fontSize={'xl'}>
-          The Adopt A Friend is the result of a collaborative effort among four
-          aspiring developers. The success and the magnitude of this project is
-          largely due to their team of volunteers’ tireless efforts to make a
-          difference. Our goal is to help potential adopters, when looking to
-          get a new pet and ensure that all healthy and treatable pets find
-          loving homes. We do this by breaking down misconceptions surrounding
-          shelter pets and celebrating the unique bond between every pet and
-          parent.
+          Adopt A Friend is the result of a collaborative effort among four
+          aspiring developers. The tireless efforts of countless volunteers
+          providing temporary homes to your next friend makes this project
+          possible. We build on their efforts to ensure that all healthy and
+          treatable pets find loving homes, by connecting them with you and
+          other caring humans.
         </Text>
         <Text color={'gray.500'} maxW={'3xl'} fontSize={'xl'}>
           {' '}
-          Our initiative “Open the cages” is an outcome of numerous cases where
-          pets were confined in cages either in shelters and other places. We’re
-          working to help the good people at shelters and rescue groups find
-          homes for their pets. But we don’t stop there. We also provide useful
-          and informative information on the human/companion animal relationship
-          to help keep pets healthy and permanently in their loving homes. From
-          the comfort of their personal computers, pet lovers can search for a
-          pet that best matches their needs. They can then reference a shelter’s
-          web page and discover what services it offers.
+          Our initiative “Open the cages” seeks to free pets from shelter cages.
+          To achieve this, we provide a platform that removes barriers to new
+          pet friend discovery. A platform in which pet lovers can locate their
+          next best friend, all while in the comfort of their next best friend's
+          future home. We don’t stop there. Through inpirational highlights, we
+          break down misconceptions of shelter pets and celebrate the loving
+          bond among humans and their animal companions. Through informative
+          guidance to caring humans, we keep animal companions healthy and
+          housed in loving homes.
         </Text>
       </Stack>
     </Container>
