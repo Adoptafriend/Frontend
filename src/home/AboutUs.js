@@ -4,7 +4,7 @@ function AboutUs() {
   return (
     <Container maxW={'5xl'}>
       <Stack
-        textAlign={'center'}
+        textAlign={'left'}
         align={'center'}
         spacing={{ base: 8, md: 10 }}
         pb={{ base: 20, md: 28 }}
@@ -40,7 +40,7 @@ function AboutUs() {
           To achieve this, we provide a platform that removes barriers to new
           pet friend discovery. A platform in which pet lovers can locate their
           next best friend, all while in the comfort of their next best friend's
-          future home. We don’t stop there. Through inpirational highlights, we
+          future home. We don’t stop there. Through inspirational highlights, we
           break down misconceptions of shelter pets and celebrate the loving
           bond among humans and their animal companions. Through informative
           guidance to caring humans, we keep animal companions healthy and

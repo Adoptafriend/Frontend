@@ -20,7 +20,7 @@ import {
   ChevronDownIcon,
   ChevronRightIcon,
 } from '@chakra-ui/icons';
-import Logo from './Logo';
+import Logo from '../Logo';
 import ColorModeSwitcher from './ColorModeSwitcher';
 
 export default function WithSubnavigation() {
